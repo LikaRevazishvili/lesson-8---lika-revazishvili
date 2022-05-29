@@ -1,0 +1,61 @@
+@media (max-width:1024px) { 
+.nav {display: none;}
+.section1 {flex-direction: column;
+             align-items: center;
+             margin: 0 auto;
+             width: 100%; 
+            }
+.divtext {width: 100%;
+          margin: 0 auto;
+        }
+.leftdiv {margin-bottom: 100px;
+          
+} 
+.
+.div1d {width: 50%;
+        margin-bottom: 20px;
+
+     
+}
+.section2 {margin: 0 auto;
+           
+           height: auto;
+         
+}
+
+}
+.programingphoto {§
+                  margin: 0 auto;
+                  
+}
+
+.boxesdiv {width: 100%;
+      
+
+} 
+.header {width: 100%;
+         display: flex;
+         justify-content: space-around;
+         margin-top: 20px;
+} 
+
+.fa-bars {color: #3D37F1;
+          font-size: 22px;
+               display: block;
+}
+
+
+
+@media (max-width:739px) {
+.section2 {
+         flex-direction: column;
+          align-items: center;
+           margin: 0 auto;
+           margin-bottom: 20px;
+         
+          
+
+}
+
+}
+
